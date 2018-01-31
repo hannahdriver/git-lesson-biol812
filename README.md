@@ -13,3 +13,5 @@ print("Brody suckseeds at life")
 suckseeds = fails
 
 add a change online
+
+I guess Brody is cool again
